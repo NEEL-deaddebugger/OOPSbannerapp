@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
     import java.util.*;
+=======
+ import java.util.*;
+>>>>>>> 176df16 (Added UC7 banner pattern with CharacterPatternMap)
 
 public class UC7 {
 
